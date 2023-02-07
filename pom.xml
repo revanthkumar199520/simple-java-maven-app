@@ -17,6 +17,13 @@
   </dependencies>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+   
+ <sonar.host.url>http://13.127.203.49:9000/</sonar.host.url>
+          <!--<sonar.login>squ_48dc500fa8c6bc1826ae64109a1614df3da3617a</sonar.login>-->
+          <sonar.login>admin</sonar.login>
+          <sonar.password>Revanth#2020</sonar.password>
+
+
   </properties>
   <build>
     <pluginManagement>
